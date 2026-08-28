@@ -53,7 +53,7 @@ mich/
 
 ## Contact
 
-- **Email:** mich.magtaca@example.com
+- **Email:** michandreana@gmail.com
 - **Location:** Legazpi City, Albay, Philippines
 
 ---

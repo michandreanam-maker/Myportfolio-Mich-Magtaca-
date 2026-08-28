@@ -51,24 +51,9 @@ mich/
 └── README.md                        # Project documentation
 ```
 
-## Run Locally
-
-No build tools or dependencies are required. Open `gemini-code-1787740077811.html` directly in a web browser.
-
-For the project images to display correctly, make sure `mich.jpeg`, `project1.jpg`, and `project2.jpg` are in the same folder as the HTML file.
-
-## Customization
-
-Update the following in the HTML file before publishing:
-
-- Replace `mich.magtaca@example.com` with the real email address.
-- Replace `project1.jpg` and `project2.jpg` with available project images.
-- Add real project links and social media profiles when available.
-- Update the copyright year when needed.
-
 ## Contact
 
-- **Email:** mich.magtaca@example.com
+- **Email:** michandreana@gmail.com
 - **Location:** Legazpi City, Albay, Philippines
 
 ---
